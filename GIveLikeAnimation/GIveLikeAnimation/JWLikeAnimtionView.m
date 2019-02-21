@@ -68,7 +68,8 @@ typedef NS_ENUM(NSInteger, JWLikeType) {
     /* 点赞动画分解
      * 1. 6个倒三角形从中心向外扩散
      * 2. 三角全部展开之后由内向外消失
-     * 3. 点赞弹簧效果 左右翻转一下
+     * 3. 心形点赞图片 从小扩大在收缩动画
+     * 4. 波纹慢慢扩大至心型图片圆周，再慢慢消失
      */
     //创建三角形
     [self createTrigonsAnimtion];
