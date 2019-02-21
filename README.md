@@ -7,7 +7,7 @@
 
 最近项目中需要模仿抖音的点赞动画来应用到项目中，所以自己撸了一个动画，给同行们分享下，不喜勿喷。欢迎随时批评指正  QQ：38251725
 
-
+![点赞动画](https://upload-images.jianshu.io/upload_images/910291-23f815022eded9c4.gif?imageMogr2/auto-orient/strip)
 
 ### 实现思路
 
